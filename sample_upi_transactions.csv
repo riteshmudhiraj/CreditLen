@@ -1,0 +1,251 @@
+date,type,amount,mode,description
+2026-05-24,DEBIT,760.82,UPI,Business / household expense
+2026-05-25,DEBIT,731.6,UPI,Business / household expense
+2026-05-26,CREDIT,1742.87,UPI,Customer payment
+2026-05-26,DEBIT,199.39,UPI,Business / household expense
+2026-05-27,CREDIT,1857.63,UPI,Customer payment
+2026-05-27,DEBIT,541.15,UPI,Business / household expense
+2026-05-28,CREDIT,1992.54,UPI,Customer payment
+2026-05-29,CREDIT,2197.9,UPI,Customer payment
+2026-05-29,DEBIT,765.08,UPI,Business / household expense
+2026-05-30,DEBIT,688.01,UPI,Business / household expense
+2026-05-31,DEBIT,867.74,UPI,Business / household expense
+2026-06-01,CREDIT,1578.95,UPI,Customer payment
+2026-06-02,CREDIT,1267.42,UPI,Customer payment
+2026-06-02,DEBIT,856.64,UPI,Business / household expense
+2026-06-03,CREDIT,2195.04,UPI,Customer payment
+2026-06-03,DEBIT,764.79,UPI,Business / household expense
+2026-06-05,CREDIT,1352.46,UPI,Customer payment
+2026-06-05,DEBIT,721.47,UPI,Business / household expense
+2026-06-06,CREDIT,2145.33,UPI,Customer payment
+2026-06-06,DEBIT,737.55,UPI,Business / household expense
+2026-06-08,CREDIT,1601.7,UPI,Customer payment
+2026-06-09,CREDIT,1335.61,UPI,Customer payment
+2026-06-09,DEBIT,746.26,UPI,Business / household expense
+2026-06-10,CREDIT,1665.26,UPI,Customer payment
+2026-06-10,DEBIT,578.51,UPI,Business / household expense
+2026-06-11,CREDIT,1739.06,UPI,Customer payment
+2026-06-12,CREDIT,1298.3,UPI,Customer payment
+2026-06-13,CREDIT,1217.98,UPI,Customer payment
+2026-06-13,DEBIT,722.35,UPI,Business / household expense
+2026-06-14,DEBIT,516.35,UPI,Business / household expense
+2026-06-15,CREDIT,1704.69,UPI,Customer payment
+2026-06-16,CREDIT,951.29,UPI,Customer payment
+2026-06-17,DEBIT,586.21,UPI,Business / household expense
+2026-06-18,CREDIT,1394.07,UPI,Customer payment
+2026-06-19,DEBIT,461.93,UPI,Business / household expense
+2026-06-20,CREDIT,1189.41,UPI,Customer payment
+2026-06-20,DEBIT,259.49,UPI,Business / household expense
+2026-06-21,DEBIT,786.26,UPI,Business / household expense
+2026-06-22,CREDIT,1936.66,UPI,Customer payment
+2026-06-23,DEBIT,846.69,UPI,Business / household expense
+2026-06-24,CREDIT,1890.8,UPI,Customer payment
+2026-06-25,CREDIT,1394.97,UPI,Customer payment
+2026-06-25,DEBIT,241.31,UPI,Business / household expense
+2026-06-26,CREDIT,1176.3,UPI,Customer payment
+2026-06-26,DEBIT,370.96,UPI,Business / household expense
+2026-06-27,CREDIT,1248.57,UPI,Customer payment
+2026-06-28,DEBIT,462.79,UPI,Business / household expense
+2026-06-29,CREDIT,1597.88,UPI,Customer payment
+2026-06-29,DEBIT,500.44,UPI,Business / household expense
+2026-07-01,CREDIT,1279.63,UPI,Customer payment
+2026-07-01,DEBIT,442.15,UPI,Business / household expense
+2026-07-02,CREDIT,1855.08,UPI,Customer payment
+2026-07-02,DEBIT,484.33,UPI,Business / household expense
+2026-07-03,DEBIT,596.58,UPI,Business / household expense
+2026-07-04,DEBIT,621.34,UPI,Business / household expense
+2026-07-05,DEBIT,898.63,UPI,Business / household expense
+2026-07-06,CREDIT,1259.52,UPI,Customer payment
+2026-07-06,DEBIT,605.89,UPI,Business / household expense
+2026-07-07,CREDIT,1556.46,UPI,Customer payment
+2026-07-07,DEBIT,594.51,UPI,Business / household expense
+2026-07-08,CREDIT,1882.74,UPI,Customer payment
+2026-07-08,DEBIT,500.8,UPI,Business / household expense
+2026-07-09,CREDIT,1573.94,UPI,Customer payment
+2026-07-09,DEBIT,188.71,UPI,Business / household expense
+2026-07-10,CREDIT,2183.54,UPI,Customer payment
+2026-07-11,CREDIT,1865.17,UPI,Customer payment
+2026-07-11,DEBIT,372.36,UPI,Business / household expense
+2026-07-12,DEBIT,683.49,UPI,Business / household expense
+2026-07-13,CREDIT,1486.81,UPI,Customer payment
+2026-07-14,CREDIT,2190.67,UPI,Customer payment
+2026-07-14,DEBIT,834.19,UPI,Business / household expense
+2026-07-15,DEBIT,566.34,UPI,Business / household expense
+2026-07-16,CREDIT,1149.77,UPI,Customer payment
+2026-07-16,DEBIT,792.36,UPI,Business / household expense
+2026-07-17,CREDIT,1427.95,UPI,Customer payment
+2026-07-17,DEBIT,568.2,UPI,Business / household expense
+2026-07-18,CREDIT,1577.25,UPI,Customer payment
+2026-07-18,DEBIT,430.07,UPI,Business / household expense
+2026-07-19,DEBIT,770.1,UPI,Business / household expense
+2026-07-20,DEBIT,185.37,UPI,Business / household expense
+2026-07-21,CREDIT,1308.0,UPI,Customer payment
+2026-07-22,DEBIT,706.2,UPI,Business / household expense
+2026-07-23,CREDIT,1284.22,UPI,Customer payment
+2026-07-23,DEBIT,567.63,UPI,Business / household expense
+2026-07-24,CREDIT,1517.53,UPI,Customer payment
+2026-07-24,DEBIT,269.74,UPI,Business / household expense
+2026-07-25,CREDIT,1769.27,UPI,Customer payment
+2026-07-25,DEBIT,324.22,UPI,Business / household expense
+2026-07-26,DEBIT,333.81,UPI,Business / household expense
+2026-07-28,CREDIT,1246.65,UPI,Customer payment
+2026-07-28,DEBIT,560.21,UPI,Business / household expense
+2026-07-29,CREDIT,1556.49,UPI,Customer payment
+2026-07-30,CREDIT,1604.95,UPI,Customer payment
+2026-07-30,DEBIT,565.05,UPI,Business / household expense
+2026-07-31,CREDIT,1934.28,UPI,Customer payment
+2026-08-01,DEBIT,624.05,UPI,Business / household expense
+2026-08-02,DEBIT,692.37,UPI,Business / household expense
+2026-08-03,CREDIT,1426.48,UPI,Customer payment
+2026-08-03,DEBIT,725.81,UPI,Business / household expense
+2026-08-04,CREDIT,1929.07,UPI,Customer payment
+2026-08-04,DEBIT,354.67,UPI,Business / household expense
+2026-08-05,CREDIT,1107.88,UPI,Customer payment
+2026-08-05,DEBIT,268.15,UPI,Business / household expense
+2026-08-06,CREDIT,1431.24,UPI,Customer payment
+2026-08-07,CREDIT,1079.95,UPI,Customer payment
+2026-08-08,CREDIT,1308.69,UPI,Customer payment
+2026-08-09,DEBIT,874.05,UPI,Business / household expense
+2026-08-10,CREDIT,1266.21,UPI,Customer payment
+2026-08-11,DEBIT,283.36,UPI,Business / household expense
+2026-08-12,CREDIT,1954.2,UPI,Customer payment
+2026-08-13,CREDIT,1894.72,UPI,Customer payment
+2026-08-14,CREDIT,1137.86,UPI,Customer payment
+2026-08-15,DEBIT,374.57,UPI,Business / household expense
+2026-08-16,DEBIT,471.19,UPI,Business / household expense
+2026-08-17,DEBIT,407.41,UPI,Business / household expense
+2026-08-18,CREDIT,1618.0,UPI,Customer payment
+2026-08-18,DEBIT,665.92,UPI,Business / household expense
+2026-08-19,CREDIT,1421.28,UPI,Customer payment
+2026-08-19,DEBIT,397.86,UPI,Business / household expense
+2026-08-21,CREDIT,1137.52,UPI,Customer payment
+2026-08-21,DEBIT,441.19,UPI,Business / household expense
+2026-08-23,DEBIT,636.06,UPI,Business / household expense
+2026-08-24,CREDIT,1465.01,UPI,Customer payment
+2026-08-24,DEBIT,699.53,UPI,Business / household expense
+2026-08-25,CREDIT,2118.28,UPI,Customer payment
+2026-08-25,DEBIT,498.03,UPI,Business / household expense
+2026-08-26,CREDIT,1027.25,UPI,Customer payment
+2026-08-27,CREDIT,1157.45,UPI,Customer payment
+2026-08-27,DEBIT,529.94,UPI,Business / household expense
+2026-08-28,DEBIT,352.2,UPI,Business / household expense
+2026-08-31,CREDIT,1488.83,UPI,Customer payment
+2026-08-31,DEBIT,883.96,UPI,Business / household expense
+2026-09-01,CREDIT,2145.34,UPI,Customer payment
+2026-09-01,DEBIT,201.82,UPI,Business / household expense
+2026-09-02,CREDIT,1118.37,UPI,Customer payment
+2026-09-02,DEBIT,205.92,UPI,Business / household expense
+2026-09-03,CREDIT,1445.49,UPI,Customer payment
+2026-09-03,DEBIT,393.39,UPI,Business / household expense
+2026-09-04,CREDIT,1200.94,UPI,Customer payment
+2026-09-04,DEBIT,452.46,UPI,Business / household expense
+2026-09-05,CREDIT,1610.56,UPI,Customer payment
+2026-09-06,DEBIT,566.26,UPI,Business / household expense
+2026-09-07,CREDIT,2089.65,UPI,Customer payment
+2026-09-08,CREDIT,1681.71,UPI,Customer payment
+2026-09-10,CREDIT,1352.11,UPI,Customer payment
+2026-09-10,DEBIT,417.07,UPI,Business / household expense
+2026-09-11,CREDIT,1515.53,UPI,Customer payment
+2026-09-12,CREDIT,1940.67,UPI,Customer payment
+2026-09-12,DEBIT,553.38,UPI,Business / household expense
+2026-09-13,DEBIT,455.25,UPI,Business / household expense
+2026-09-14,CREDIT,2144.39,UPI,Customer payment
+2026-09-14,DEBIT,462.05,UPI,Business / household expense
+2026-09-15,CREDIT,1853.04,UPI,Customer payment
+2026-09-15,DEBIT,321.78,UPI,Business / household expense
+2026-09-16,DEBIT,817.42,UPI,Business / household expense
+2026-09-17,CREDIT,2194.69,UPI,Customer payment
+2026-09-17,DEBIT,249.23,UPI,Business / household expense
+2026-09-18,CREDIT,1267.08,UPI,Customer payment
+2026-09-18,DEBIT,398.02,UPI,Business / household expense
+2026-09-19,CREDIT,872.47,UPI,Customer payment
+2026-09-19,DEBIT,182.24,UPI,Business / household expense
+2026-09-20,DEBIT,810.71,UPI,Business / household expense
+2026-09-21,CREDIT,1286.56,UPI,Customer payment
+2026-09-21,DEBIT,731.3,UPI,Business / household expense
+2026-09-22,DEBIT,645.46,UPI,Business / household expense
+2026-09-23,CREDIT,2104.29,UPI,Customer payment
+2026-09-24,CREDIT,1749.22,UPI,Customer payment
+2026-09-25,CREDIT,1285.0,UPI,Customer payment
+2026-09-25,DEBIT,290.98,UPI,Business / household expense
+2026-09-26,DEBIT,324.25,UPI,Business / household expense
+2026-09-27,DEBIT,481.99,UPI,Business / household expense
+2026-09-28,CREDIT,1950.04,UPI,Customer payment
+2026-09-28,DEBIT,220.59,UPI,Business / household expense
+2026-09-29,CREDIT,1408.58,UPI,Customer payment
+2026-09-30,CREDIT,1171.79,UPI,Customer payment
+2026-09-30,DEBIT,471.45,UPI,Business / household expense
+2026-10-01,CREDIT,1842.88,UPI,Customer payment
+2026-10-02,DEBIT,519.04,UPI,Business / household expense
+2026-10-03,CREDIT,1134.87,UPI,Customer payment
+2026-10-03,DEBIT,327.59,UPI,Business / household expense
+2026-10-04,DEBIT,329.89,UPI,Business / household expense
+2026-10-05,CREDIT,1946.94,UPI,Customer payment
+2026-10-05,DEBIT,323.25,UPI,Business / household expense
+2026-10-06,CREDIT,857.74,UPI,Customer payment
+2026-10-06,DEBIT,368.32,UPI,Business / household expense
+2026-10-07,CREDIT,1969.77,UPI,Customer payment
+2026-10-07,DEBIT,212.99,UPI,Business / household expense
+2026-10-08,CREDIT,2130.33,UPI,Customer payment
+2026-10-08,DEBIT,632.8,UPI,Business / household expense
+2026-10-09,DEBIT,606.15,UPI,Business / household expense
+2026-10-10,DEBIT,304.35,UPI,Business / household expense
+2026-10-12,CREDIT,1741.23,UPI,Customer payment
+2026-10-12,DEBIT,774.52,UPI,Business / household expense
+2026-10-13,CREDIT,2096.23,UPI,Customer payment
+2026-10-13,DEBIT,197.18,UPI,Business / household expense
+2026-10-14,CREDIT,1535.09,UPI,Customer payment
+2026-10-15,DEBIT,185.62,UPI,Business / household expense
+2026-10-16,CREDIT,1737.36,UPI,Customer payment
+2026-10-16,DEBIT,381.49,UPI,Business / household expense
+2026-10-17,CREDIT,1812.16,UPI,Customer payment
+2026-10-17,DEBIT,865.88,UPI,Business / household expense
+2026-10-18,DEBIT,522.76,UPI,Business / household expense
+2026-10-19,DEBIT,368.18,UPI,Business / household expense
+2026-10-20,CREDIT,1453.77,UPI,Customer payment
+2026-10-20,DEBIT,255.76,UPI,Business / household expense
+2026-10-21,CREDIT,1270.36,UPI,Customer payment
+2026-10-21,DEBIT,700.78,UPI,Business / household expense
+2026-10-22,CREDIT,1458.81,UPI,Customer payment
+2026-10-22,DEBIT,185.73,UPI,Business / household expense
+2026-10-23,DEBIT,296.45,UPI,Business / household expense
+2026-10-24,CREDIT,1137.81,UPI,Customer payment
+2026-10-24,DEBIT,261.88,UPI,Business / household expense
+2026-10-25,DEBIT,435.14,UPI,Business / household expense
+2026-10-26,CREDIT,1133.26,UPI,Customer payment
+2026-10-26,DEBIT,788.45,UPI,Business / household expense
+2026-10-27,CREDIT,1669.12,UPI,Customer payment
+2026-10-27,DEBIT,844.72,UPI,Business / household expense
+2026-10-28,CREDIT,1881.36,UPI,Customer payment
+2026-10-28,DEBIT,475.87,UPI,Business / household expense
+2026-10-29,CREDIT,1580.64,UPI,Customer payment
+2026-10-29,DEBIT,786.82,UPI,Business / household expense
+2026-10-30,CREDIT,970.36,UPI,Customer payment
+2026-10-30,DEBIT,384.57,UPI,Business / household expense
+2026-10-31,CREDIT,1366.76,UPI,Customer payment
+2026-10-31,DEBIT,773.1,UPI,Business / household expense
+2026-11-01,DEBIT,420.18,UPI,Business / household expense
+2026-11-02,CREDIT,2083.93,UPI,Customer payment
+2026-11-03,DEBIT,348.17,UPI,Business / household expense
+2026-11-04,CREDIT,1967.61,UPI,Customer payment
+2026-11-04,DEBIT,630.02,UPI,Business / household expense
+2026-11-05,CREDIT,1141.49,UPI,Customer payment
+2026-11-05,DEBIT,487.74,UPI,Business / household expense
+2026-11-06,DEBIT,571.95,UPI,Business / household expense
+2026-11-07,CREDIT,1802.78,UPI,Customer payment
+2026-11-09,CREDIT,2153.29,UPI,Customer payment
+2026-11-09,DEBIT,706.7,UPI,Business / household expense
+2026-11-10,CREDIT,985.75,UPI,Customer payment
+2026-11-10,DEBIT,262.11,UPI,Business / household expense
+2026-11-11,CREDIT,2155.28,UPI,Customer payment
+2026-11-12,CREDIT,1516.88,UPI,Customer payment
+2026-11-12,DEBIT,408.7,UPI,Business / household expense
+2026-11-13,CREDIT,1445.63,UPI,Customer payment
+2026-11-14,DEBIT,757.14,UPI,Business / household expense
+2026-11-15,DEBIT,745.69,UPI,Business / household expense
+2026-11-17,CREDIT,1558.33,UPI,Customer payment
+2026-11-17,DEBIT,598.77,UPI,Business / household expense
+2026-11-18,CREDIT,1648.0,UPI,Customer payment
+2026-11-18,DEBIT,426.95,UPI,Business / household expense
+2026-11-19,CREDIT,1283.65,UPI,Customer payment
+2026-11-20,CREDIT,2153.48,UPI,Customer payment
